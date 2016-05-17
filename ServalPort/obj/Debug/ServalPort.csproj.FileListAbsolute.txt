@@ -1,0 +1,9 @@
+E:\C#_source\串口助手_DEMO\ServalPort\bin\Debug\ServalPort.exe.config
+E:\C#_source\串口助手_DEMO\ServalPort\bin\Debug\ServalPort.exe
+E:\C#_source\串口助手_DEMO\ServalPort\bin\Debug\ServalPort.pdb
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\ServalPort.csprojResolveAssemblyReference.cache
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\ServalPort.Form1.resources
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\ServalPort.Properties.Resources.resources
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\ServalPort.csproj.GenerateResource.Cache
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\ServalPort.exe
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\ServalPort.pdb

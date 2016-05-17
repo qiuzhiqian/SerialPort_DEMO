@@ -1,0 +1,10 @@
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.csprojResolveAssemblyReference.cache
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.csproj.GenerateResource.Cache
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.Form1.resources
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.Properties.Resources.resources
+E:\C#_source\串口助手_DEMO\ServalPort\bin\Debug\MySerialPort.exe.config
+E:\C#_source\串口助手_DEMO\ServalPort\bin\Debug\MySerialPort.exe
+E:\C#_source\串口助手_DEMO\ServalPort\bin\Debug\MySerialPort.pdb
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.exe
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.pdb
+E:\C#_source\串口助手_DEMO\ServalPort\obj\Debug\MySerialPort.Form2.resources

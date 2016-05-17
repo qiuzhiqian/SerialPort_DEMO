@@ -1,0 +1,9 @@
+E:\C#_source\串口助手_DEMO\ASCII_Tab\bin\Debug\ASCII_Tab.exe.config
+E:\C#_source\串口助手_DEMO\ASCII_Tab\bin\Debug\ASCII_Tab.exe
+E:\C#_source\串口助手_DEMO\ASCII_Tab\bin\Debug\ASCII_Tab.pdb
+E:\C#_source\串口助手_DEMO\ASCII_Tab\obj\Debug\ASCII_Tab.Form1.resources
+E:\C#_source\串口助手_DEMO\ASCII_Tab\obj\Debug\ASCII_Tab.Properties.Resources.resources
+E:\C#_source\串口助手_DEMO\ASCII_Tab\obj\Debug\ASCII_Tab.csproj.GenerateResource.Cache
+E:\C#_source\串口助手_DEMO\ASCII_Tab\obj\Debug\ASCII_Tab.exe
+E:\C#_source\串口助手_DEMO\ASCII_Tab\obj\Debug\ASCII_Tab.pdb
+E:\C#_source\串口助手_DEMO\ASCII_Tab\obj\Debug\ASCII_Tab.csprojResolveAssemblyReference.cache

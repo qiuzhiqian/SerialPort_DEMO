@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySerialPort", "ServalPort\MySerialPort.csproj", "{BBEAC0D3-ABFB-4614-A18A-6B8635586607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASCII_Tab", "ASCII_Tab\ASCII_Tab.csproj", "{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{BBEAC0D3-ABFB-4614-A18A-6B8635586607}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD15FAC-8357-4CD2-967E-BBB1A914C95A}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
